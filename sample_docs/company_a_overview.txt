@@ -1,0 +1,20 @@
+Aerofield Dynamics — Company Overview (fictional, for demo purposes)
+
+Aerofield Dynamics is a mid-sized aerospace components manufacturer founded in 2011,
+specializing in structural fasteners and precision-machined brackets for commercial
+aircraft. The company operates three manufacturing facilities and reported revenue
+of $180 million in its most recent fiscal year, up 9% year over year.
+
+Strategy: Aerofield has focused on vertical integration, acquiring two raw-material
+suppliers in the past three years to reduce input-cost volatility. Management has
+stated a goal of reducing average order lead time from 45 days to 30 days by the
+end of next fiscal year.
+
+Risks: The company disclosed reliance on a single titanium supplier for roughly 40%
+of raw material volume, and noted rising labor costs at its primary facility as a
+margin pressure point. Customer concentration is moderate, with its top three
+customers accounting for 55% of revenue.
+
+Recent developments: Aerofield announced a partnership with a regional logistics
+provider to improve on-time delivery performance, targeting a 95% on-time rate
+within 18 months, up from a reported 82%.

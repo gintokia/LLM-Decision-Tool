@@ -1,0 +1,21 @@
+Vantage Precision Corp — Company Overview (fictional, for demo purposes)
+
+Vantage Precision Corp is a diversified precision-manufacturing company serving the
+aerospace, defense, and medical device industries. Founded in 1998, the company
+reported revenue of $310 million last fiscal year, roughly flat versus the prior
+year, with management citing softness in its medical device segment.
+
+Strategy: Vantage has pursued diversification across end markets rather than
+vertical integration, arguing this reduces exposure to any single industry's
+cycle. The company completed one acquisition in the defense-electronics space
+during the past year, its first acquisition in over five years.
+
+Risks: Management flagged increased competitive pricing pressure in the medical
+device segment and a multi-year backlog of aging equipment in one facility that
+will require capital investment. Customer concentration is low, with no single
+customer exceeding 12% of revenue.
+
+Recent developments: Vantage disclosed an ongoing ERP system migration expected to
+be substantially complete within two fiscal years, intended to unify reporting
+across its business units, which currently operate on separate systems inherited
+through prior acquisitions.
